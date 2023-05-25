@@ -1,15 +1,47 @@
-### Hi there 👋
+![Web Developer](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/345662179_157553510599729_2483184942025880703_n.jpg?_nc_cat=105&cb=99be929b-3346023f&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGGktY8m-xFrKvJ9swNSWBOvfwUBaVkBXK9_BQFpWQFcu_yG_L2WWp2XuT9wTuE32l4AKJoOjfmMxWK0oj4Gzdg&_nc_ohc=eyXW9Xr3xVgAX8Fr5cD&_nc_ht=scontent.fdac14-1.fna&oh=00_AfCP9Oh8d_CMapPcCdWNyABrsNRk3O0KizXqGqdNHKjc_w&oe=6475363F)
+
+### Hi there 👋, I'm Md Amirul Islam
+#### Web Developer
 
 
-**A-amirul/A-amirul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Hello! I'm Md Amirul Islam, a passionate MERN stack developer with expertise in HTML, CSS, JavaScript, Tailwind, Bootstrap, React, Daisyui.
 
-Here are some ideas to get you started:
+With a strong foundation in web development, I strive to create seamless and user-friendly experiences for the web. I am proficient in front-end technologies like HTML, CSS, and JavaScript, and have hands-on experience in using popular CSS frameworks like Tailwind and Bootstrap to build responsive and visually appealing web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My expertise extends to React, a powerful JavaScript library for building dynamic user interfaces. I have developed single-page applications (SPAs) using React, leveraging its component-based architecture, state management, and virtual DOM. Additionally, I have experience integrating third-party libraries and APIs into React applications, ensuring optimal functionality and performance.
+
+On the back-end, I am familiar Node.js and have built RESTful APIs using frameworks like Express. I have also worked with MongoDB as a NoSQL database, implementing data modeling, querying, and integration with Node.js applications.
+
+In my projects, I have utilized Firebase Authentication for user authentication and authorization, implementing secure login and registration systems to protect user data. This has allowed me to build secure and scalable web applications with streamlined user management.
+
+I am a quick learner and always stay up to date with the latest web development trends and best practices. I enjoy collaborating with teams and thrive in fast-paced environments, where I can contribute my skills and knowledge to create innovative solutions.
+
+As a MERN stack developer, I am constantly seeking new challenges and opportunities to grow professionally. I am passionate about crafting exceptional web experiences and am dedicated to delivering high-quality, efficient, and scalable solutions.
+
+If you have any exciting projects or opportunities, I would love to connect and contribute to your team. Let's create amazing web applications together!"
+
+Skills: REACT / JS / HTML / CSS/ Tailwind/ Bootstrap/ Daisyui/ Node js/ MongoDB/ Firebase Authentication/ Express js
+
+- 🔭 I’m currently working on MERN Development  
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/A-amirul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amirulislamamir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amirulislamamir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amirulislamamir)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=A-amirul)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-amirul)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=A-amirul&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A-amirul)  
+
+![GitHub metrics](https://metrics.lecoq.io/A-amirul)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=A-amirul)  
+
+![Profile views](https://gpvc.arturio.dev/A-amirul)  
