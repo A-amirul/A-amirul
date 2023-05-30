@@ -6,9 +6,6 @@
 ### Hello, I'm Md Amirul Islam
 #### Web Developer
 
-
-"Hello! I'm Md Amirul Islam, a passionate MERN stack developer with expertise in HTML, CSS, JavaScript, Tailwind, Bootstrap, React, Daisyui.
-
 With a strong foundation in web development, I strive to create seamless and user-friendly experiences for the web. I am proficient in front-end technologies like HTML, CSS, and JavaScript, and have hands-on experience in using popular CSS frameworks like Tailwind and Bootstrap to build responsive and visually appealing web interfaces.
 
 My expertise extends to React, a powerful JavaScript library for building dynamic user interfaces. I have developed single-page applications (SPAs) using React, leveraging its component-based architecture, state management, and virtual DOM. Additionally, I have experience integrating third-party libraries and APIs into React applications, ensuring optimal functionality and performance.
