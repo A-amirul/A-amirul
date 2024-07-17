@@ -37,11 +37,11 @@ Skills: REACT / JS / HTML / CSS/ Tailwind/ Bootstrap/ Daisyui/ Node js/ MongoDB/
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-amirul&theme=github_dark" width="32.5%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-amirul&theme=github_dark&utcOffset=8" width="32.5%">
  
-</div> <br>
+</div> 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-amirul&theme=github_dark" width="98%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-amirul&theme=github_dark" width="98%"> <br>
 </div>
-<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=A-amirul)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-amirul)](https://github.com/anuraghazra/github-readme-stats)
