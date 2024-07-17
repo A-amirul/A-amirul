@@ -28,29 +28,26 @@ Skills: REACT / JS / HTML / CSS/ Tailwind/ Bootstrap/ Daisyui/ Node js/ MongoDB/
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+
 ## Current Stats
 
 <div align="center" >
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=morshedulmunna&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morshedulmunna&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=morshedulmunna&theme=github_dark&utcOffset=8" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-amirul&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-amirul&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-amirul&theme=github_dark&utcOffset=8" width="32.5%">
  
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morshedulmunna&theme=github_dark" width="98%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-amirul&theme=github_dark" width="98%">
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=A-amirul)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-amirul)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=A-amirul&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A-amirul)  
 
 ![GitHub metrics](https://metrics.lecoq.io/A-amirul)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=A-amirul)  
 
 ![Profile views](https://gpvc.arturio.dev/A-amirul)  
