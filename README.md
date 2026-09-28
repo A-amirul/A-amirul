@@ -16,7 +16,7 @@ Experienced in building and optimizing enterprise applications across **HRMS, Pa
 | **Primary Stack**    | .NET · C# · ASP.NET Core · React                       |
 | **Database**         | **Microsoft SQL Server**                               |
 | **Server**           | **IIS**                                                |
-| **Enterprise Scale** | **14,000+ Active Employees**                           |
+| **Enterprise Scale** | **15,000+ Active Employees**                           |
 | **Performance**      | **60% Payroll Processing Improvement**                 |
 | **Core Domains**     | HRMS · Payroll · POS · Inventory                       |
 | **Architecture**     | Clean Architecture · SOLID · Repository · Unit of Work |
