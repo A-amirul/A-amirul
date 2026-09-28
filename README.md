@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | .NET & React
 
-Full Stack Software Engineer with **3+ years of enterprise experience** specializing in **C#, ASP.NET Core, Microsoft SQL Server, React.js, and Redux Toolkit**.
+Full Stack Software Engineer with **4 years of enterprise experience** specializing in **C#, ASP.NET Core, Microsoft SQL Server, React.js, and Redux Toolkit**.
 
 Experienced in building and optimizing enterprise applications across **HRMS, Payroll, POS, Inventory Management, and Financial Workflow systems**.
 
@@ -12,7 +12,7 @@ Experienced in building and optimizing enterprise applications across **HRMS, Pa
 
 |                      |                                                        |
 | -------------------- | ------------------------------------------------------ |
-| **Experience**       | 3+ Years                                               |
+| **Experience**       | 4 Years                                               |
 | **Primary Stack**    | .NET · C# · ASP.NET Core · React                       |
 | **Database**         | **Microsoft SQL Server**                               |
 | **Server**           | **IIS**                                                |
@@ -32,7 +32,7 @@ Experienced in building and optimizing enterprise applications across **HRMS, Pa
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
 
-**C# · .NET 8/6 · ASP.NET Core Web API · Entity Framework Core · ADO.NET · RESTful APIs · LINQ · JWT Authentication**
+**C# · .NET 6/8/10 · ASP.NET Core Web API · Entity Framework Core · ADO.NET · RESTful APIs · LINQ · JWT Authentication**
 
 ---
 
@@ -88,9 +88,9 @@ Experienced in building and optimizing enterprise applications across **HRMS, Pa
 
 ## KEY PROFESSIONAL IMPACT
 
-### 14,000+ Enterprise Employees
+### 15,000+ Enterprise Employees
 
-Architecting and optimizing enterprise **HRMS modules** including Payroll, Attendance, Leave, Recruitment, Tax, and Service Charge for **14,000+ active corporate employees**.
+Architecting and optimizing enterprise **HRMS modules** including Payroll, Attendance, Leave, Recruitment, Tax, and Service Charge for **15,000+ active corporate employees**.
 
 ### 60% Performance Improvement
 
