@@ -2,24 +2,24 @@
 
 ### Full Stack Software Engineer | .NET & React
 
-Full Stack Software Engineer with **4 years of enterprise experience** specializing in **C#, ASP.NET Core, Microsoft SQL Server, React.js, and Redux Toolkit**.
+Full Stack Software Engineer with **4 years of enterprise experience** specializing in **C#, OOP, ASP .NET Core, ADO .NET, Microsoft SQL Server, JavaScript, TypeScript, React, and Redux Toolkit**.
 
-Experienced in building and optimizing enterprise applications across **HRMS, Payroll, POS, Inventory Management, and Financial Workflow systems**.
+Experienced in building and optimizing enterprise applications across **HRMS, Payroll, POS, Inventory Management, E-Commerce, Bill Management, and Financial Workflow systems**.
 
 ---
 
 ## PROFESSIONAL HIGHLIGHTS
 
-|                      |                                                        |
-| -------------------- | ------------------------------------------------------ |
-| **Experience**       | 4 Years                                               |
-| **Primary Stack**    | .NET · C# · ASP.NET Core · React                       |
-| **Database**         | **Microsoft SQL Server**                               |
-| **Server**           | **IIS**                                                |
-| **Enterprise Scale** | **15,000+ Active Employees**                           |
-| **Performance**      | **60% Payroll Processing Improvement**                 |
-| **Core Domains**     | HRMS · Payroll · POS · Inventory                       |
-| **Architecture**     | Clean Architecture · SOLID · Repository · Unit of Work |
+|                      |                                                             |
+| -------------------- | --------------------------------------------------------    |
+| **Experience**       | 4 Years                                                     |
+| **Primary Stack**    | .NET ·C# ·ASP .NET Core ·ADO .NET ·React ·TypeScript ·Redux |
+| **Database**         | **Microsoft SQL Server**                                    |
+| **Server**           | **IIS**                                                     |
+| **Enterprise Scale** | **15,000+ Active Employees**                                |
+| **Performance**      | **60% Payroll Processing Improvement**                      |
+| **Core Domains**     | HRMS · Payroll · POS · Inventory ·E-Commerce                            |
+| **Architecture**     | Clean Architecture · SOLID · Repository · Unit of Work      |
 
 ---
 
